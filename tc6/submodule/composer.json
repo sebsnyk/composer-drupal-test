@@ -1,0 +1,6 @@
+{
+    "require": {
+        "drupal/core": "9.1.4",
+        "phpmailer/phpmailer": "6.4.0"
+    }
+}
