@@ -381,12 +381,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "7ca18718799cd996296daf923afc617a2ecb47b3"
+                "reference": "ff8bb4456bfc861cdc65c5ead8f7df880ab3c898"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/7ca18718799cd996296daf923afc617a2ecb47b3",
-                "reference": "7ca18718799cd996296daf923afc617a2ecb47b3",
+                "url": "https://api.github.com/repos/drupal/core/zipball/ff8bb4456bfc861cdc65c5ead8f7df880ab3c898",
+                "reference": "ff8bb4456bfc861cdc65c5ead8f7df880ab3c898",
                 "shasum": ""
             },
             "require": {
@@ -540,7 +540,7 @@
             "support": {
                 "source": "https://github.com/drupal/core/tree/9.5.x"
             },
-            "time": "2022-10-25T13:30:48+00:00"
+            "time": "2022-10-26T08:12:12+00:00"
         },
         {
             "name": "egulias/email-validator",
@@ -1112,12 +1112,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-feed.git",
-                "reference": "4068ea9aa967cc01e6057e9d378f570898c8ae51"
+                "reference": "74faead04c867227029a0849d21b6aa60e694147"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-feed/zipball/4068ea9aa967cc01e6057e9d378f570898c8ae51",
-                "reference": "4068ea9aa967cc01e6057e9d378f570898c8ae51",
+                "url": "https://api.github.com/repos/laminas/laminas-feed/zipball/74faead04c867227029a0849d21b6aa60e694147",
+                "reference": "74faead04c867227029a0849d21b6aa60e694147",
                 "shasum": ""
             },
             "require": {
@@ -1185,7 +1185,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2022-10-18T01:41:52+00:00"
+            "time": "2022-10-23T01:12:13+00:00"
         },
         {
             "name": "laminas/laminas-servicemanager",
